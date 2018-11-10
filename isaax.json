@@ -1,0 +1,11 @@
+{
+	"name": "Hello Isaax",
+	"version": "0.1",
+	"description": "Sample",
+	"author": "tomotomo",
+	"license": "MIT License",
+	"language": "",
+	"scripts": {
+		"start": "hostname -I"
+	}
+}
